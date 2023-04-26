@@ -9,7 +9,7 @@ Find out more about me & feel free to connect with me here:
 [![Medium Badge](https://img.shields.io/badge/Virgil%20Majors-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@redslick84)](https://medium.com/@redslick84)
 [![Gmail Badge](https://img.shields.io/badge/-Mr.V.Majors84@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Mr.V.Majors84@gmail.com)](mailto:Mr.V.Majors84@gmail.com)
 
-## ⚡ Technologies
+## ⚡ Technologies & Future Technologies
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -21,8 +21,8 @@ Find out more about me & feel free to connect with me here:
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LevelUpInTech&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevelUpInTech&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Vmajors84&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vmajors84&hide=TeX&layout=compact)
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FVmajors84%2FVmajors84%2Ftree%2Fmain&label=Visitors&countColor=%23263759&labelStyle=lower)
